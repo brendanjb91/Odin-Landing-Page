@@ -1,3 +1,21 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+main > h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.image-info > p {
+    /* width: 50px;     */
+}
+
+a {
+    color: #F9FAF8;
+}
+
 img {
     max-height: 50px;
 }
@@ -13,3 +31,24 @@ button {
     background-color: #3882F6;
     color: white;
 }
+
+.head {
+    background-color: #1F2937;
+    color: white;
+}
+
+#title {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+
+.quote {
+    font-style: italic;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    height: 400px;
+    text-align: center;
+}
+
